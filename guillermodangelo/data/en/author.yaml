@@ -1,0 +1,16 @@
+# some information about you
+name: "Guillermo D'Angelo"
+nickname: "Guillermo D'Angelo"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/retrato.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "johndoe@example.com"
+  phone: "+0123456789"
+  github: johndoe
+  linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - GIS Analyst
