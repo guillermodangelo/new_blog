@@ -11,6 +11,32 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Python
+  summary: "Capable of develop data wrangling and analysis in Python. I also developed webapp automations using
+  Selenium, dashboards using Streamlit, webmaps using folium, and data visualization in general"
+  logo: /images/sections/skills/python.png
+  url: "https://www.python.org/"
+
+- name: GIS Analysis
+  summary: "Data production, analysis and managment using GIS software, like QGIS, ArcGIS, GDAL, geopandas"
+  logo: /images/sections/skills/qgis.png
+
+- name: Leaflet
+  summary: "I can develop webmaps using Leaflet.js, a JavaScript library for web mapping"
+  logo: /images/sections/skills/leaflet.jpg
+  url: "https://leafletjs.com/"
+
+- name: Git
+  summary: "Experienced with git-based development. Mostly Github and some GitLab."
+  logo: /images/sections/skills/git.png
+  url: "https://git-scm.com/"
+
+- name: PostgreSQL
+  summary: "I use SQL daily, beign PostgreSQL my prefered relational DB. Apart from querys, I know how to manage login roles, develop triggers and stored procedures, desing DBs schemas, etc."
+  logo: /images/sections/skills/postgres.png
+  url: "https://www.postgresql.org/"
+
+- name: PostGIS
+  summary: "PostGIS is the spatial extension for PostgreSQL, which I use to perform spatial operations in the database."
+  logo: /images/sections/skills/postgis.png
+  url: "https://postgis.net/"

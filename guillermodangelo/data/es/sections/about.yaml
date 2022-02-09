@@ -1,0 +1,30 @@
+section:
+  name: Acerca de mi
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+  # your designation
+designation: Analista SIG
+# your company information
+
+summary: 'Soy geógrafo, analista SIG y analista de datos, trabajando en proyectos relacionados a datos desde 2010'
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "me@guillermodangelo.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/guillermodangelo"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://gis.stackexchange.com/users/17256/guillermo-dangelo"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/guillermodangelo/"

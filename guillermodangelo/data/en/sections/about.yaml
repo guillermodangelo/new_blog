@@ -10,9 +10,7 @@ section:
 designation: GIS Analyst
 # your company information
 
-
 summary: 'I am a geographer, GIS analyst and data analyst, working in data-related projects since 2010.'
-
 
 socialLinks:
 - name: Email
@@ -30,3 +28,7 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/guillermodangelo/"
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"

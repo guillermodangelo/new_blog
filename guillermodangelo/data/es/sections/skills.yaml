@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Analisis SIG
+  summary: "Producción, análisis y gestión de datos usando software SIG, como QGIS, ArcGIS, GDAL y geopandas"
+  logo: /images/sections/skills/qgis.png
+
+- name: Python
+  summary: "Desarrollo en Python para el análisis de datos. He desarrollado algunos procesos automáticos
+  en web-apps usando Selenium, tableros con Streamlit, mapas web con folium y visualización de datos en general"
+  logo: /images/sections/skills/python.png
+  url: "https://www.python.org/"
+
+- name: Leaflet
+  summary: "Desarrollo mapas web usando Leaflet.js, una librería para web mapping responsivo"
+  logo: /images/sections/skills/leaflet.jpg
+  url: "https://leafletjs.com/"
+
+- name: Git
+  summary: "Uso Git para gestionar mis proyectos"
+  url: "https://git-scm.com/"
+  logo: /images/sections/skills/git.png
+  url: "https://www.python.org/"
